@@ -1,3 +1,5 @@
+package TEST_261011;
+
 public class User {
     private final String name;
     private int age;
